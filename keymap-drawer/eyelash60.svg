@@ -27,9 +27,6 @@
 <svg id="mdi:backspace">
 <svg xmlns="http://www.w3.org/2000/svg" id="mdi-backspace" viewBox="0 0 24 24"><path d="M22,3H7C6.31,3 5.77,3.35 5.41,3.88L0,12L5.41,20.11C5.77,20.64 6.31,21 7,21H22A2,2 0 0,0 24,19V5A2,2 0 0,0 22,3M19,15.59L17.59,17L14,13.41L10.41,17L9,15.59L12.59,12L9,8.41L10.41,7L14,10.59L17.59,7L19,8.41L15.41,12" /></svg>
 </svg>
-<svg id="mdi:backspace-reverse-outline">
-<svg xmlns="http://www.w3.org/2000/svg" id="mdi-backspace-reverse-outline" viewBox="0 0 24 24"><path d="M5,15.59L6.41,17L10,13.41L13.59,17L15,15.59L11.41,12L15,8.41L13.59,7L10,10.59L6.41,7L5,8.41L8.59,12L5,15.59M2,3A2,2 0 0,0 0,5V19A2,2 0 0,0 2,21H17C17.69,21 18.23,20.64 18.59,20.11L24,12L18.59,3.88C18.23,3.35 17.69,3 17,3H2M2,5H17L21.72,12L17,19H2V5Z" /></svg>
-</svg>
 <svg id="mdi:bluetooth">
 <svg xmlns="http://www.w3.org/2000/svg" id="mdi-bluetooth" viewBox="0 0 24 24"><path d="M14.88,16.29L13,18.17V14.41M13,5.83L14.88,7.71L13,9.58M17.71,7.71L12,2H11V9.58L6.41,5L5,6.41L10.59,12L5,17.58L6.41,19L11,14.41V22H12L17.71,16.29L13.41,12L17.71,7.71Z" /></svg>
 </svg>
@@ -571,42 +568,31 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key"/>
 <text x="0" y="-4" class="key tap">LGUI</text>
 </g>
-<g transform="translate(252, 252)" class="key keypos-56">
-<rect rx="6" ry="6" x="-40" y="-26" width="80" height="52" class="key side"/>
-<rect rx="4" ry="4" x="-34" y="-24" width="68" height="40" class="key"/>
-<a href="#Conf">
-<text x="0" y="-4" class="key tap layer-activator">Conf</text>
-</a></g>
-<g transform="translate(378, 252)" class="key keypos-57">
-<rect rx="6" ry="6" x="-82" y="-26" width="164" height="52" class="key side"/>
-<rect rx="4" ry="4" x="-76" y="-24" width="152" height="40" class="key"/>
+<g transform="translate(385, 252)" class="key keypos-56">
+<rect rx="6" ry="6" x="-173" y="-26" width="346" height="52" class="key side"/>
+<rect rx="4" ry="4" x="-167" y="-24" width="334" height="40" class="key"/>
 <use href="#mdi:keyboard-space" xlink:href="#mdi:keyboard-space" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:keyboard-space"/>
 </g>
-<g transform="translate(511, 252)" class="key keypos-58">
-<rect rx="6" ry="6" x="-47" y="-26" width="94" height="52" class="key side"/>
-<rect rx="4" ry="4" x="-41" y="-24" width="82" height="40" class="key"/>
-<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:backspace-reverse-outline"/>
-</g>
-<g transform="translate(595, 252)" class="key keypos-59">
+<g transform="translate(595, 252)" class="key keypos-57">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key"/>
 <use href="#mdi:arrow-left-bold" xlink:href="#mdi:arrow-left-bold" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:arrow-left-bold"/>
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="-8" y="9" height="15" width="15.0" class="key hold glyph mdi:apple-keyboard-option"/>
 </g>
-<g transform="translate(665, 252)" class="key keypos-60">
+<g transform="translate(665, 252)" class="key keypos-58">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key"/>
 <use href="#mdi:arrow-down-bold" xlink:href="#mdi:arrow-down-bold" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:arrow-down-bold"/>
 <text x="0" y="24" class="key hold">RGUI</text>
 </g>
-<g transform="translate(735, 252)" class="key keypos-61">
+<g transform="translate(735, 252)" class="key keypos-59">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key"/>
 <use href="#mdi:arrow-right-bold" xlink:href="#mdi:arrow-right-bold" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:arrow-right-bold"/>
 <a href="#Navi">
 <text x="0" y="24" class="key hold layer-activator">Navi</text>
 </a></g>
-<g transform="translate(805, 252)" class="key keypos-62">
+<g transform="translate(805, 252)" class="key keypos-60">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key"/>
 <text x="0" y="-4" class="key tap">/</text>
@@ -903,36 +889,26 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(252, 252)" class="key trans keypos-56">
-<rect rx="6" ry="6" x="-40" y="-26" width="80" height="52" class="key trans side"/>
-<rect rx="4" ry="4" x="-34" y="-24" width="68" height="40" class="key trans"/>
+<g transform="translate(385, 252)" class="key trans keypos-56">
+<rect rx="6" ry="6" x="-173" y="-26" width="346" height="52" class="key trans side"/>
+<rect rx="4" ry="4" x="-167" y="-24" width="334" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(378, 252)" class="key trans keypos-57">
-<rect rx="6" ry="6" x="-82" y="-26" width="164" height="52" class="key trans side"/>
-<rect rx="4" ry="4" x="-76" y="-24" width="152" height="40" class="key trans"/>
-<use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
-</g>
-<g transform="translate(511, 252)" class="key keypos-58">
-<rect rx="6" ry="6" x="-47" y="-26" width="94" height="52" class="key side"/>
-<rect rx="4" ry="4" x="-41" y="-24" width="82" height="40" class="key"/>
-<text x="0" y="-4" class="key tap">INS</text>
-</g>
-<g transform="translate(595, 252)" class="key trans keypos-59">
+<g transform="translate(595, 252)" class="key trans keypos-57">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(665, 252)" class="key trans keypos-60">
+<g transform="translate(665, 252)" class="key trans keypos-58">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(735, 252)" class="key held keypos-61">
+<g transform="translate(735, 252)" class="key held keypos-59">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key held side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key held"/>
 </g>
-<g transform="translate(805, 252)" class="key trans keypos-62">
+<g transform="translate(805, 252)" class="key trans keypos-60">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
@@ -1229,36 +1205,27 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(252, 252)" class="key held keypos-56">
-<rect rx="6" ry="6" x="-40" y="-26" width="80" height="52" class="key held side"/>
-<rect rx="4" ry="4" x="-34" y="-24" width="68" height="40" class="key held"/>
-</g>
-<g transform="translate(378, 252)" class="key trans keypos-57">
-<rect rx="6" ry="6" x="-82" y="-26" width="164" height="52" class="key trans side"/>
-<rect rx="4" ry="4" x="-76" y="-24" width="152" height="40" class="key trans"/>
+<g transform="translate(385, 252)" class="key trans keypos-56">
+<rect rx="6" ry="6" x="-173" y="-26" width="346" height="52" class="key trans side"/>
+<rect rx="4" ry="4" x="-167" y="-24" width="334" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(511, 252)" class="key trans keypos-58">
-<rect rx="6" ry="6" x="-47" y="-26" width="94" height="52" class="key trans side"/>
-<rect rx="4" ry="4" x="-41" y="-24" width="82" height="40" class="key trans"/>
-<use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
-</g>
-<g transform="translate(595, 252)" class="key trans keypos-59">
+<g transform="translate(595, 252)" class="key trans keypos-57">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(665, 252)" class="key trans keypos-60">
+<g transform="translate(665, 252)" class="key trans keypos-58">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(735, 252)" class="key trans keypos-61">
+<g transform="translate(735, 252)" class="key trans keypos-59">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(805, 252)" class="key trans keypos-62">
+<g transform="translate(805, 252)" class="key trans keypos-60">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-27" y="-24" width="54" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>

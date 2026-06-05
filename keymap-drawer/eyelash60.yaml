@@ -57,9 +57,7 @@ layers:
   - {t: '`', h: '$$mdi:apple-keyboard-control$$', s: '~'}
   - $$mdi:apple-keyboard-option$$
   - LGUI
-  - Conf
   - $$mdi:keyboard-space$$
-  - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:arrow-left-bold$$', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '$$mdi:arrow-down-bold$$', h: RGUI}
   - {t: '$$mdi:arrow-right-bold$$', h: Navi}
@@ -123,8 +121,6 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - INS
-  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -184,8 +180,6 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
