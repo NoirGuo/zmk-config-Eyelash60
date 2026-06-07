@@ -8,3 +8,6 @@ requires:
 exposes:
 features:
   - keys
+siblings:
+  - eyelash60_dongle
+  - eyelash60_peripheral

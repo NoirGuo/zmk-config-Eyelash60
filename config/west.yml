@@ -4,10 +4,12 @@ manifest:
   remotes:
     - name: cormoran
       url-base: https://github.com/cormoran
+    - name: englmaxi
+      url-base: https://github.com/englmaxi
   projects:
     - name: zmk
       remote: cormoran
-      revision: v0.3-branch+dya
+      revision: main+dya
       import: app/west.yml
     - name: zmk-module-ble-management
       remote: cormoran
@@ -20,6 +22,9 @@ manifest:
       revision: main
     - name: zmk-module-runtime-input-processor
       remote: cormoran
+      revision: main
+    - name: zmk-dongle-display
+      remote: englmaxi
       revision: main
   self:
     path: config
