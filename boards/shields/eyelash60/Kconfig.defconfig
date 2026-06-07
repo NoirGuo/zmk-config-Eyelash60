@@ -1,7 +1,7 @@
 if SHIELD_EYELASH60_DONGLE
 
 config ZMK_KEYBOARD_NAME
-    default "EYELASH60"
+    default "Micro M"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y

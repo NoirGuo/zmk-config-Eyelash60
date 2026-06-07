@@ -18,10 +18,10 @@ include:
     shield: eyelash60_dongle dongle_display
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
-    artifact-name: eyelash60_dongle
+    artifact-name: micro m_dongle
   - board: nice_nano//zmk
     shield: eyelash60_peripheral
-    artifact-name: eyelash60
+    artifact-name: micro m
   - board: nice_nano//zmk
     shield: settings_reset
-    artifact-name: eyelash60_settings_reset
+    artifact-name: micro m_settings_reset
