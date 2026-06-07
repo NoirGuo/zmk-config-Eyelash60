@@ -24,3 +24,4 @@ include:
     artifact-name: eyelash60
   - board: nice_nano//zmk
     shield: settings_reset
+    artifact-name: eyelash60_settings_reset
