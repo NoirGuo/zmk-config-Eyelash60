@@ -55,8 +55,8 @@ layers:
   - $$mdi:arrow-up-bold$$
   - $$mdi:apple-keyboard-shift$$
   - {t: '`', h: '$$mdi:apple-keyboard-control$$', s: '~'}
-  - $$mdi:apple-keyboard-option$$
   - LGUI
+  - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:keyboard-space$$', h: Conf}
   - {t: '$$mdi:arrow-left-bold$$', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '$$mdi:arrow-down-bold$$', h: RGUI}
