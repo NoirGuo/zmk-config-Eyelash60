@@ -28,4 +28,4 @@ include:
   - board: nice_nano//zmk
     shield: eyelash60_peripheral
     snippet: nrf52840-nosd
-    artifact-name: micro m
+    artifact-name: micro m nosd
