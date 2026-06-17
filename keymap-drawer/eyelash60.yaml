@@ -59,9 +59,9 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:keyboard-space$$', h: Conf}
   - {t: '$$mdi:arrow-left-bold$$', h: '$$mdi:apple-keyboard-option$$'}
-  - {t: '$$mdi:arrow-down-bold$$', h: RGUI}
-  - {t: '$$mdi:arrow-right-bold$$', h: Navi}
-  - {t: /, h: '$$mdi:apple-keyboard-control$$', s: '?'}
+  - {t: '$$mdi:arrow-down-bold$$', h: Navi}
+  - {t: '$$mdi:arrow-right-bold$$', h: '$$mdi:apple-keyboard-control$$'}
+  - {t: /, s: '?'}
   Navi:
   - {t: '`', s: '~'}
   - F1
@@ -121,8 +121,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:backspace-reverse-outline$$
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   Conf:
   - '&studio_unlock'
